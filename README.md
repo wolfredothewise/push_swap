@@ -11,4 +11,4 @@ This project its about of sorting numbers with a series of instructions(pa/b, sa
 The use of AI was crucial in this project as the help of my classmates, AI helped me to organize myself, understand abstract concepts and clean my code.
 
 
-➠My personal choice of algorithm, was radix algorithm, because of its simplicity to undesrstand and its application.
+➠My personal choice of algorithm, was radix algorithm, because of its simplicity to understand and its application.
